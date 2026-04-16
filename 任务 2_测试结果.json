@@ -1,0 +1,54 @@
+[
+  {
+    "问题编号": "B1001",
+    "问题": "金花股份利润总额是多少",
+    "答案": "金花股份最新利润总额为 0.87 亿元（2023-12-31）",
+    "数据": [
+      {
+        "company_name": "金花股份",
+        "report_date": "2023-12-31",
+        "total_profit_yi": 0.87,
+        "net_profit_yi": 0.85
+      }
+    ]
+  },
+  {
+    "问题编号": "B1002",
+    "问题": "金花股份近几年的利润总额变化趋势是什么样的",
+    "答案": "金花股份利润总额从 2020 年的0.58亿元增长到2023-12-31的0.87亿元",
+    "数据": [
+      {
+        "company_name": "金花股份",
+        "report_date": "2020-12-31",
+        "total_profit_yi": 0.58,
+        "net_profit_yi": 0.57,
+        "revenue_yi": 8.5,
+        "profit_growth": NaN
+      },
+      {
+        "company_name": "金花股份",
+        "report_date": "2021-12-31",
+        "total_profit_yi": 0.68,
+        "net_profit_yi": 0.67,
+        "revenue_yi": 9.8,
+        "profit_growth": 17.24137931034484
+      },
+      {
+        "company_name": "金花股份",
+        "report_date": "2022-12-31",
+        "total_profit_yi": 0.78,
+        "net_profit_yi": 0.78,
+        "revenue_yi": 11.0,
+        "profit_growth": 14.705882352941169
+      },
+      {
+        "company_name": "金花股份",
+        "report_date": "2023-12-31",
+        "total_profit_yi": 0.87,
+        "net_profit_yi": 0.85,
+        "revenue_yi": 12.0,
+        "profit_growth": 11.538461538461542
+      }
+    ]
+  }
+]
